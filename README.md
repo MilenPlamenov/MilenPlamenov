@@ -13,28 +13,28 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px"
+<img align="left" alt="Python" width="28px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
      
-<img align="left" alt="PyCharm" width="26px"
+<img align="left" alt="PyCharm" width="28px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pycharm.svg" />
      
-<img align="left" alt="Django" width="26px"
+<img align="left" alt="Django" width="28px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />
      
-<img align="left" alt="Visual Studio Code" width="26px"
+<img align="left" alt="Visual Studio Code" width="28px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
      
-<img align="left" alt="SQL" width="26px"
+<img align="left" alt="SQL" width="28px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
 
-<img align="left" alt="Git" width="26px"
+<img align="left" alt="Git" width="28px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
 
-<img align="left" alt="Github" width="26px"
+<img align="left" alt="Github" width="28px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
      
-<img align="left" alt="Discord" width="26px"
+<img align="left" alt="Discord" width="28px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
      
 

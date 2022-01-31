@@ -48,7 +48,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-     
+     <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<MilenPlamenov>&theme=<THEME_NAME>" />
+
 
 </details>
 

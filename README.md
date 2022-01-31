@@ -20,7 +20,7 @@
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />
      
 <img align="left" alt="Visual Studio Code" width="26px"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudioscode.svg" />
+     src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
      
 <img align="left" alt="SQL" width="26px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sql.svg" />

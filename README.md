@@ -1,6 +1,5 @@
-### 👋 Hi, I’m Milen Plamenov. I'm Bulgarian.
-- 👀 I’m interested in Web Development with Python
-- 🌱 I’m currently learning Python Web and C++
+### 👋 Hi, I’m Milen Plamenov from Bulgaria. Studying Python in Softuni and C++ in Technical University of Varna.
+- 👀 I’m interested in Web Development with Python.
 
 
 ### Connect with me:

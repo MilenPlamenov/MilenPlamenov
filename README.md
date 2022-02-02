@@ -55,5 +55,5 @@
 
 
 [instagram]: https://instagram.com/mivkata
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/milen-georgiev-321947230/
 

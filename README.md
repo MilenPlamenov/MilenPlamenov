@@ -3,7 +3,7 @@
 
 ```diff
 
-@@ ### ⭐ Certificate @@
+@@⭐ Certificate @@
 ```
 
 

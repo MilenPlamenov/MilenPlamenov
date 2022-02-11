@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development with Python.
 
 ### ⭐ Certificate:
-- 📜 https://www.hackerrank.com/certificates/73b0e5258ae2 (Python (Basic) Certificate / HackerRank)
+- 📜 https://www.hackerrank.com/certificates/73b0e5258ae2 (Python (Basic) / HackerRank)
 
 
 

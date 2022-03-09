@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Milen Plamenov from Bulgaria. Studying Python in Softuni.
-- 👀 I’m interested in Web Development with Python.
+- 👀 I’m interested in programming with Python 🐍
 
 ### ⭐ Certificate:
 - 📜 https://www.hackerrank.com/certificates/73b0e5258ae2 (Python (Basic) / HackerRank)

@@ -3,6 +3,7 @@
 
 ### ⭐ Certificate:
 - 📜 https://www.hackerrank.com/certificates/73b0e5258ae2 (Python (Basic) / HackerRank)
+- 📜 https://softuni.bg/certificates/details/127782/7c38418c (Python Web Basics / Softuni)
 
 
 

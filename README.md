@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Milen Plamenov from Bulgaria. Studying Python in Softuni.
+### 👋 Hi, I’m Milen Plamenov from Bulgaria. Just a Python lover (:
 - 👀 I’m interested in programming with Python 🐍
 
 ### ⭐ Certificate:

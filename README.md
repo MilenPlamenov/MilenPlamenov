@@ -42,6 +42,9 @@
      
 <img align="left" alt="Discord" width="28px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
+    
+<img align="left" alt="Discord" width="28px"
+     src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
      
 
 <br />

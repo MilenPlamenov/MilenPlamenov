@@ -14,7 +14,7 @@
 [<img align="left" alt="milen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="milen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="milen | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />]
-[hackerrank]
+[HackerRank]
 <br />
 
 ### Languages and Tools:
@@ -62,5 +62,5 @@
 
 [instagram]: https://instagram.com/mivkata
 [linkedin]: https://www.linkedin.com/in/milen-georgiev-321947230/
-[hackerrank]: https://www.hackerrank.com/milen_georgiev8?hr_r=1
+[HackerRank]: https://www.hackerrank.com/milen_georgiev8?hr_r=1
 

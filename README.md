@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m Milen Plamenov from Bulgaria. Started studying programming September 2020 (Python at SoftUni). I enjoy the software development and think for working it all life if it is possible... Prefer of course Python above all other languages ,because I like so much how powerful this language is ,anyways it is slow !
 
-- 👀 I’m interested in programming with Python 🐍
 
 ### ⭐ Certificate:
 - 📜 https://www.hackerrank.com/certificates/73b0e5258ae2 (Python (Basic) / HackerRank)

@@ -7,7 +7,7 @@
 - 📜 https://www.hackerrank.com/certificates/65e7e667cbb0 (Problem Solving (Basic) / HackerRank)
 - 📜 https://softuni.bg/certificates/details/127782/7c38418c (Python Web Basics / Softuni)
 - 📜 https://softuni.bg/certificates/details/132473/668f67e3 (Python Web Framework / Softuni)
-
+- 📜 https://drive.google.com/file/d/1Y8FRrQOE-VaYOW_OJK4jxxfknK_aqV5w/view?usp=sharing (Republican programming competition / Rousse University "Angel Kanchev")
 
 
 ### Connect with me:

@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Milen Plamenov from Bulgaria. Started studying programming September 2020 (Python at SoftUni). Prefer of course Python above all other languages ,because I like so much how powerful this language is ! *Finished the Python Path (18.04.2022) in Softuni with average 5.79... *Competitor in the 34th regional programming race (Ruse, Bulgaria 2022)
+### 👋 Hi, I’m Milen Plamenov from Bulgaria. Started studying programming September 2020 (Python at SoftUni). *Finished the Python Path (18.04.2022) in Softuni with average 5.79... *Competitor in the 34th regional programming race (Ruse, Bulgaria 2022)
 
 
 ### ⭐ Certificate:

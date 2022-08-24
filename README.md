@@ -12,7 +12,7 @@
 - 📜 https://drive.google.com/file/d/1bkLOnwIza5C_Da5_zZCxWivxiJOwyEem/view?usp=sharing (Student Programming Competition / TU Varna)
 - 📜 https://drive.google.com/file/d/1Y8FRrQOE-VaYOW_OJK4jxxfknK_aqV5w/view?usp=sharing (Republican programming competition / Rousse University "Angel Kanchev")
 - 📜 https://www.hackerrank.com/certificates/ed4e34e05dfb (JavaScript (Basic) / HackerRank)
-
+- 📜 https://www.hackerrank.com/certificates/b85acd555464 (JavaScript (Intermediate) / HackerRank)
 
 ### Connect with me:
 

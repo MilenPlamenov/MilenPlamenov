@@ -13,7 +13,7 @@
 - 📜 https://drive.google.com/file/d/1Y8FRrQOE-VaYOW_OJK4jxxfknK_aqV5w/view?usp=sharing (Republican programming competition / Rousse University "Angel Kanchev")
 - 📜 https://www.hackerrank.com/certificates/ed4e34e05dfb (JavaScript (Basic) / HackerRank)
 - 📜 https://www.hackerrank.com/certificates/b85acd555464 (JavaScript (Intermediate) / HackerRank)
-
+- 📜 https://www.hackerrank.com/certificates/c9613eacd790 (Rest API (Intermediate) / HackerRank)
 ### Connect with me:
 
 

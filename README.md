@@ -14,6 +14,7 @@
 - 📜 https://www.hackerrank.com/certificates/ed4e34e05dfb (JavaScript (Basic) / HackerRank)
 - 📜 https://www.hackerrank.com/certificates/b85acd555464 (JavaScript (Intermediate) / HackerRank)
 - 📜 https://www.hackerrank.com/certificates/c9613eacd790 (Rest API (Intermediate) / HackerRank)
+- 📜 https://www.hackerrank.com/certificates/d31f2383dfb9 (SQL (Basic) / HackerRank)
 ### Connect with me:
 
 

@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Milen Plamenov from Bulgaria. Studying programming since September 2020 (Python, JS at SoftUni). I would like to develop as a Backend/Fullstack engineer with Python (I am actively looking for a job) !
+### 👋 Hi, I’m Milen Plamenov from Bulgaria. Studying programming since September 2020 (Python, JS at SoftUni). I would like to develop as a Backend/Fullstack engineer with Python..
 ### *Finished the Python Path (18.04.2022) in Softuni with average 5.79... 
 ### *Competitor in the 34th regional programming race (Ruse, Bulgaria 2022)
 

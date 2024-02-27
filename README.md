@@ -1,5 +1,4 @@
-### 👋 Hi, It's Milen.I am interested in Python programming and Web Development. My goal is to be a Python guru.
-### *Finished the Python Path (18.04.2022) in Softuni with average 5.79... 
+### 👋 Hi, It's Milen.I am interested in Python programming and Web Development.
 ### *Competitor in the 34th regional programming race (Ruse, Bulgaria 2022)
 
 
@@ -54,6 +53,8 @@
 <img align="left" alt="JS" width="28px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
      
+<img align="left" alt="PHP" width="28px"
+     src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
 
 <br />
 <br />
